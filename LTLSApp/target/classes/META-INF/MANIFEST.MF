@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 13
+Implementation-Title: LTLSApp
+Implementation-Version: 0.0.1-SNAPSHOT
+Main-Class: ca.llab.LtlsAppApplication
+Created-By: Maven Integration for Eclipse
+
